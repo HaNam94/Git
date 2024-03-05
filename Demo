@@ -1,0 +1,5 @@
+Hello C0224G1
+git init: khoi tao local repository
+git add <ten-file>: day file demo vao staging area
+git comit - m" hello git": dua thay doi vao loccal repo, tao 1 snap shot luu tru lai lich thay doi
+git remote: ket noi local repo voi remote repo
